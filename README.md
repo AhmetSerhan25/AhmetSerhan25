@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AhmetSerhan25
+- 👋 Hi, I’m Ahmet Serhan Görükmez
 - 👀 I’m interested in technology and music
 - 🌱 I’m currently learning Java programming
 - 📫 How to reach me asgironman@gmail.com
